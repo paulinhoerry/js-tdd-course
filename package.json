@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "js course with test driven development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulinhoerry/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "course",
+    "library"
+  ],
+  "author": "Paulo Rodrigues <paulinhoerry@gmail.com> (http://www.nebulla.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulinhoerry/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/paulinhoerry/js-tdd-course#readme"
+}
